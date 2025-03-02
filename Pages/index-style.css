@@ -6,6 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Sigmar", serif;
+     color: rgb(76, 9, 140);
 }
 
 #myVideo {
@@ -68,7 +69,6 @@
 
 .container a {
     text-decoration: none;
-    color: black;
 }
 
 .container img {
